@@ -27,6 +27,8 @@ les notifications et le suivi des activités.
 ## Auteur
 Fotso Teno Herman
 
+Étudiant en GSI – ISH
+
 
 
 
